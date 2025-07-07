@@ -6,7 +6,7 @@
 # Maintainer: Your Name <youremail@domain.com>
 pkgname=own-fontconfig
 pkgver=1
-pkgrel=2
+pkgrel=3
 pkgdesc="Own system-wide fontconfig."
 arch=(any)
 license=('unknown')
