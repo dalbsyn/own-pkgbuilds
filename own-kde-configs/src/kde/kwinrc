@@ -19,3 +19,8 @@ Id_2=c03dd2d4-717c-457c-b9f5-99366fce0033
 Id_3=c89e249e-eaca-461e-84b0-a4542e4be9d8
 Id_4=2211bee1-393e-4aeb-b076-90d19f477c29
 Number=4
+
+[org.kde.kdecoration2]
+ButtonsOnLeft=M
+library=org.kde.breeze
+theme=Breeze
