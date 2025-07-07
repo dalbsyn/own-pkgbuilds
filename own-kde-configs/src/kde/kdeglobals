@@ -1,5 +1,6 @@
 [General]
 XftAntialias=true
+XftSubPixel=rgb
 XftHintStyle=hintslight
 fixed=Monospace,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
 font=Sans Serif,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1

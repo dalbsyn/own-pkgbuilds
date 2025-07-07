@@ -6,7 +6,7 @@
 # Maintainer: Your Name <youremail@domain.com>
 pkgname=own-kde-configs
 pkgver=1
-pkgrel=2
+pkgrel=3
 pkgdesc="Own system-wide some settings for projects of KDE."
 arch=(any)
 license=('unknown')
@@ -14,5 +14,7 @@ license=('unknown')
 
 package() {
 	mkdir -p $pkgdir/etc/xdg/
-	install $srcdir/kdeglobals $pkgdir/etc/xdg/
+	mkdir -p $pkgdir/etc/sddm.conf.d/
+	install $srcdir/kde/* $pkgdir/etc/xdg/
+	install $srcdir/sddm/* $pkgdir/etc/sddm.conf.d/
 }
