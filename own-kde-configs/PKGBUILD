@@ -6,7 +6,7 @@
 # Maintainer: Your Name <youremail@domain.com>
 pkgname=own-kde-configs
 pkgver=1
-pkgrel=1
+pkgrel=2
 pkgdesc="Own system-wide some settings for projects of KDE."
 arch=(any)
 license=('unknown')

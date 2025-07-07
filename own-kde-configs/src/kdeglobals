@@ -8,3 +8,7 @@ smallestReadableFont=Sans Serif,8,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
 toolBarFont=Sans Serif,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
 activeFont=Sans Serif,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
 
+[WM]
+activeBackground=227,229,231
+activeBlend=227,229,231
+activeFont=Sans Serif,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
