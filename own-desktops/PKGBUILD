@@ -6,7 +6,7 @@
 # Maintainer: Your Name <youremail@domain.com>
 pkgname=own-desktops
 pkgver=1
-pkgrel=2
+pkgrel=3
 pkgdesc="Own desktop files for system-wide autostart or hidden applications"
 arch=(any)
 license=('unknown')
