@@ -12,6 +12,8 @@ contrastEnabled=true
 desktopchangeosdEnabled=true
 touchpointsEnabled=true
 
+[Script-desktopchangeosd]
+TextOnly=true
 
 [Desktops]
 Id_1=a369d1f2-95d9-478a-8497-73484a904955
