@@ -13,3 +13,5 @@
 - [own-kde-configs](own-kde-configs/README.md);
 - [own-pipewire-settings](own-pipewire-settings/README.md);
 - [own-wallpapers](own-wallpapers/README.md).
+
+(test)
